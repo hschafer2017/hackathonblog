@@ -3,6 +3,7 @@ from django.urls import path, reverse_lazy
 from accounts.views import do_login, register, do_logout, profile  
 from django.contrib.auth.views import password_reset, password_reset_done, password_reset_confirm, password_reset_complete
 
+#  ACCOUNTS
 
     
 urlpatterns = [
