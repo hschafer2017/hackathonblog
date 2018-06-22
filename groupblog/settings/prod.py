@@ -1,4 +1,5 @@
 from .base import *
+import dj_database_url
 
 SECRET_KEY = os.environ('SECRET_KEY')
 
