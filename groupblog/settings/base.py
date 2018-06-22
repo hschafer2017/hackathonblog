@@ -25,7 +25,7 @@ SECRET_KEY = '4#+e645g)gzslj#tfq5ja0cnb++v)xpw-z97gcw+(2027(+)x_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hackathon-blog-haleyschafer.c9users.io']
+ALLOWED_HOSTS = ['hackathon-blog-haleyschafer.c9users.io', 'groupblog-project.herokuapp.com']
 
 
 # Application definition
